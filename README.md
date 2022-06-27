@@ -1,7 +1,7 @@
-#Singular Value Decomposition (SVD) 
+# Singular Value Decomposition (SVD) 
 
-Let A
-$ \in \mathbb{R}^{n,m} $.
+Let 
+$ A \in \mathbb{R}^{n,m} $.
 Then svd decomposition of _A_ is a product of three matrices 
 $ U \Sigma V^{T} $,
 where : 
