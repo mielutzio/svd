@@ -14,7 +14,7 @@ where :
      
  ![circle](https://github.com/lucianodainic/svd/blob/main/assets/circle.png)
  
- :orange_circle: V vectors
+ :orange_circle: left singular vectors
  
  ![ellipse](https://github.com/lucianodainic/svd/blob/main/assets/ellipse.png)
  
@@ -23,8 +23,7 @@ where :
  = Ellipse
  
  :orange_circle: 
- $ \Sigma $
- values with origin form semi axes
+singular values with origin form the semi axes
  
  ![rotated_ellipse](https://github.com/lucianodainic/svd/blob/main/assets/rotated_ellipse.png)
  
@@ -32,4 +31,4 @@ where :
  
  :orange_circle: 
  $ \Sigma * U $
- new values for rotated ellipse semi axes
+ new values for the semi axes of the rotated ellipse 
